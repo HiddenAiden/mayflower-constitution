@@ -1,4 +1,4 @@
-# State of Mayflower Legislation
+# State of Mayflower Constitution
 
 <p align="left">
   <a href="https://github.com/KarlXYZ/mayflower-docs2/actions"><img
